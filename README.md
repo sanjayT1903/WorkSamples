@@ -1,6 +1,6 @@
 # 🧠 Dreamscribe MVP – GraphRAG & Agentic AI (2024)
 
-This repository showcases development work I completed for the MVP phase of **Dreamscribe**, an AI startup I collaborated with in 2024. The project focused on building an **Agentic AI architecture** backed by **Graph-Based Retrieval-Augmented Generation (GraphRAG)** — before these techniques became mainstream.
+This repository showcases development work I completed for the MVP phase of **Dreamscribe**, an AI startup I collaborated with in 2024. The project focused on building an **Agentic AI architecture** backed by **Graph-Based Retrieval-Augmented Generation (GraphRAG)**.
 
 <p align="center">
   <img src="assets/graphragIMG.png" alt="GraphRAG Agent Architecture" width="600"/>
